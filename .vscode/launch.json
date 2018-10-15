@@ -9,18 +9,6 @@
             "stopOnEntry": false,
             "mainClass": "MainController",
             "args": "",
-            "projectName": "Student-Array"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - MainController",
-            "request": "launch",
-            "cwd": "C:\\CodeRepository\\StudentRecords",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "sr.MainController",
-            "args": "",
-            "projectName": "StudentRecords (2)"
         }
     ]
 }
